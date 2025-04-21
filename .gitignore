@@ -1,0 +1,13 @@
+/signal_generator/Activity in BPI_Challenge_2019.csv
+/signal_generator/BPI_Challenge_2019.xes
+/signal_generator/filtered_log.xes
+/signal_generator/main_variants.txt
+/signal_generator/variant_1.xes
+/signal_generator/variant_2.xes
+/signal_generator/variant_3.xes
+/signal_generator/variant_4.xes
+/signal_generator/variants.txt
+/signal_generator/DFG.txt
+!/signal_generator/event_objects_all_variants.pkl
+!/signal_generator/signal_main.py
+!/Event Log Manager/synthetic.py
